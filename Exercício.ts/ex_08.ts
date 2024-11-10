@@ -22,6 +22,6 @@ function ehDiaEspecial(dia: DiasSemana): boolean {
 }
 
 console.log(ehDiaEspecial(DiasSemana.Domingo));    
-console.log(ehDiaEspecial(DiasSemana.Quinta));       
-console.log(ehDiaEspecial(DiasSemana.Natal));       
-console.log(ehDiaEspecial(DiasSemana.Independencia)); 
+console.log(ehDiaEspecial(DiasSemana.quinta)); 
+console.log(ehDiaEspecial(DiasSemana.natal)); 
+console.log(ehDiaEspecial(DiasSemana.independencia)); 
